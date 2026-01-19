@@ -1,2 +1,2 @@
-# informatik-unterricht-verschl-sselung
+# informatik-unterricht-verschluesselung
 informatik-unterricht-verschlüsselung
